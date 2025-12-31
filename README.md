@@ -32,10 +32,12 @@
 |-------------|------|------|
 | `GH_USERNAME` | ✅ | GitHub 用户名 |
 | `GH_PASSWORD` | ✅ | GitHub 密码 |
+| `CLAW_CLOUD_URL` | ❌ | 默认：https://eu-central-1.run.claw.cloud |
 | `GH_SESSION` | ❌ | 自动生成，无需手动添加 |
 | `TG_BOT_TOKEN` | ❌ | Telegram Bot Token |
 | `TG_CHAT_ID` | ❌ | Telegram Chat ID |
 | `REPO_TOKEN` | ❌ | GitHub PAT（用于自动更新 Secret） |
+
 
 ---
 
